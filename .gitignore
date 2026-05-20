@@ -1,0 +1,27 @@
+# Backup files
+fcn-deeplabv3-backup.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data
+data/
+*.csv
+*.txt
+
+# Checkpoints
+*.pth
+*.pt
